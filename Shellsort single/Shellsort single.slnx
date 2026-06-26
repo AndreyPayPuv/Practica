@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Shellsort single/Shellsort single.vcxproj" Id="336ea660-73cc-4711-9e26-93f9d35f0794" />
+</Solution>
